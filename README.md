@@ -1,4 +1,8 @@
 ## Olá! Eu sou o Lucas Pestana
+👨‍🎓 Estudante de Ciência da Computação - USJT 
+
+👨‍💻 Analista de Segurança da Informação - NicolaSec
+
 
 <div>
   <a href="https://github.com/LPestana18">
